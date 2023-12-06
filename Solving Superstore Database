@@ -29,7 +29,7 @@ VALUES
 
 
 
-/* if I need to read the entire table */
+/* if I need to read the entire table, I'll use */
 SELECT * FROM superstore;
 
 #Use a SELECT statement to order the items by price.
